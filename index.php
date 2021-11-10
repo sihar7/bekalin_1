@@ -18,6 +18,30 @@
                 case 'product':
                     include 'page/product.php';
                 break;
+                case 'about':
+                    include 'page/about.php';
+                break;
+                case 'career':
+                    include 'page/career.php';
+                break;
+                case 'news':
+                    include 'page/berita.php';
+                break;
+                case 'contact':
+                    include 'page/contact.php';
+                break;
+                case 'testimony':
+                    include 'page/testimoni.php';
+                break;
+                case 'cartProduct':
+                    include 'page/cartProduct.php';
+                break;
+                case 'gallery':
+                    include 'page/gallery.php';
+                break;
+                case 'shoppingCart':
+                    include 'page/shoppingCart.php';
+                break;
                 
                 
             }

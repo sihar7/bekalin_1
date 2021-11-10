@@ -1,93 +1,88 @@
- <!-- shopping-cart -->
- <div class="portfolio-info shopping-cart padding-top-120 padding-bottom-90">
-        <div class="shopping-shapes">
-            <span class="ps1"><img src="assets/images/shapes/12.png" alt=""></span>
-            <span class="pss2 item-bounce"><img src="assets/images/shapes/26.png" alt=""></span>
-            <span class="ps3 item-bounce"><img src="assets/images/shapes/7.png" alt=""></span>
-            <span class="ps4"><img src="assets/images/img/32.png" alt=""></span>
-            <span class="pss5"><img src="assets/images/shapes/16.png" alt=""></span>
-            <span class="ps6"><img src="assets/images/shapes/13.png" alt=""></span>
+
+    <!-- breadcrumb-area -->
+    <div class="banner-area breadcrumb-area padding-top-120 padding-bottom-90">
+        <div class="bread-shapes">
+            <span class="b-shape-1 item-bounce"><img src="assets/images/img/5.png" alt=""></span>
+            <span class="b-shape-2"><img src="assets/images/img/6.png" alt=""></span>
+            <span class="b-shape-3"><img src="assets/images/img/7.png" alt=""></span>
+            <span class="b-shape-4"><img src="assets/images/img/9.png" alt=""></span>
+            <span class="b-shape-5"><img src="assets/images/shapes/18.png" alt=""></span>
+            <span class="b-shape-6 item-animateOne"><img src="assets/images/img/7.png" alt=""></span>
+        </div>
+        <div class="container padding-top-120">
+            <div class="row justify-content-center">
+                <nav aria-label="breadcrumb">
+                    <h2 class="page-title">Checkout</h2>
+                    <ol class="breadcrumb text-center">
+                        <li class="breadcrumb-item"><a href="index.html">Home/</a> <a href="?page=orderChickenCombo">Chicken Combo
+                                Cart</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Chicken Combo</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <!-- checkout-area -->
+    <div class="checkout-area padding-top-120 padding-bottom-120">
+        <div class="cshapes">
+            <span class="cs-1"><img src="assets/images/img/6.png" alt=""></span>
+            <span class="cs-2 item-bounce"><img src="assets/images/shapes/12.png" alt=""></span>
+            <span class="cs-3"><img src="assets/images/shapes/13.png" alt=""></span>
+            <span class="cs-4"><img src="assets/images/shapes/14.png" alt=""></span>
+            <span class="cs-5"><img src="assets/images/img/32.png" alt=""></span>
+            <span class="cs-6"><img src="assets/images/shapes/16.png" alt=""></span>
         </div>
         <div class="container">
             <form action="#">
-                <!-- upper table -->
-                <div class="upper-table margin-bottom-30">
-                    <div class="row">
-                        <div class="col-lg-6 col-md-12 margin-bottom-30">
-                            <div class="upper-t-left d-flex justify-content-between">
-                                <input type="text" placeholder="Masukkan Kupon">
-                                <span><a class="btn" href="#"> Gunakan</a></span>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-12">
-                            <div class="upper-t-right d-flex justify-content-between">
-                                <a class="btn" href="#">clear all</a>
-                            </div>
+                <div class="row">
+                    <div class="col-lg-6  wow fadeInUp">
+                        <div class="checkout-left">
+                            <h4>Detail Penagihan</h4>
+                            <input type="text" placeholder="nama lengkap" required>
+                            <input type="text" placeholder="alamat">
+                            <input type="tel" placeholder="no telp" required>
+                            <input type="email" placeholder="email" required>
+                            <input type="text" placeholder="catatan pesanan">
                         </div>
                     </div>
-                </div>
-                <!-- table -->
-                <div style="overflow-x:auto;">
-                    <table class="table-one">
-                        <thead class="table-one-head">
-                            <tr class="table-one-tr">
-                                <th class="table-one-th" style="width:50%">Nama Produk</th>
-                                <th class="table-one-th" style="width:10%">Harga</th>
-                                <th class="table-one-th" style="width:8%">Jumlah</th>
-                                <th class="table-one-th text-center" style="width:22%">Subtotal</th>
-                                <th class="table-one-th" style="width:10%"></th>
-                            </tr>
-                        </thead>
-
-                        <tbody>
-                            <!-- row 1 -->
-                            <tr>
-                                <td>
-                                    <!--data-th="Product"-->
-                                    <div class="d-flex align-items-center">
-                                        <!--class="row"-->
-                                        <div class=" d-none d-md-block col-md-4">
-                                            <div class="table-img"><img src="assets/images/img/chiken_2.png" alt="">
-                                            </div>
-                                        </div>
-                                        <div class="col-12 col-sm-12 col-md-8">
-                                            <h5>Chicken Combo</h5>
-                                        </div>
-                                    </div>
-                                </td>
-                                <td>Rp. 100.000</td>
-                                <!--data-th="Price"-->
-                                <td>
-                                    <!-- data-th="Quantity"-->
-                                    <input type="number" class="form-control text-center" value="1">
-                                </td>
-                                <td class="text-center">Rp. 100.000</td>
-                                <!--data-th="Subtotal"  -->
-                                <td>
-                                    <!--class="actions" data-th=""-->
-                                    <span class="remove"><a href="#"><i class="fas fa-plus"></i></a></span>
-                                </td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
-
-                <!-- lower table -->
-
-                <div class="row margin-top-60">
-                    <div class="col-lg-5">
-                        <div class="lower-table">
-                            <h6>Lanjutkan ke pembayaran</h6>
-                            <div class="lower-table-info">
-                                <ul class="d-flex justify-content-between">
-                                    <li class="sub">SUBTOTAL</li>
-                                    <li>Rp. 100.000</li>
+                    <div class="col-lg-6  wow fadeInUp ">
+                        <div class="checkout-right">
+                            <h4>Pesanan Anda</h4>
+                            <div class="pricing-box">
+                                <ul class="p-head">
+                                    <li class="uppercase">produk</li>
+                                    <li class="uppercase">total</li>
                                 </ul>
-                                <hr>
-                                <button class="btn" type="submit">Pembayaran</button>
+                                <div class="divider"></div>
+                                <ul>
+                                    <li>Chicken Combo</li>
+                                    <li>Rp. 100.000</li>
+                                </ul>free</li>
+                                </ul>
+                                <ul class="bg-white">
+                                    <li class="uppercase">total</li>
+                                    <li class="total"><b>Rp. 100.000</b></li>
+                                </ul>
                             </div>
-                        </div>
+                            <input type="radio" id="bank">
+                            <label for="bank">TRANSFER BANK LANGSUNG</label>
+                            <br>
+                            <input type="radio" id="check">
+                            <label for="check">CEK PEMBAYARAN</label>
+                            <br>
+                            <div class="payment-img">
+                                <a href="#"><img src="assets/images/img/payment.png" alt=""></a>
+                            </div>
+                            <input type="radio" id="cash">
+                            <label for="cash">BAYAR DI TEMPAT</label>
+                            <br>
 
+                            <input type="radio" id="terms">
+                            <label for="terms">Saya sudah membaca dan menerima <a href="#">Syarat & Ketentuan*</a></label>
+                            <br>
+                            <button type="submit" class="btn">Checkout</button>
+                        </div>
                     </div>
                 </div>
             </form>

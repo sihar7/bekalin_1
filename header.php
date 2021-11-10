@@ -5,27 +5,26 @@
                 <div class="row d-flex align-items-center">
                     <div class="col-lg-2 col-md-2 col-sm-2 col-6 margin-bottom-20">
                         <div class="logo">
-                            <a href="index.html"> <img src="assets/logo/sabana_logo.png" style="filter: contrast(1.75);"  alt="logo"></a>
+                            <a href="?page=home"> <img src="assets/logo/sabana_logo.png" style="filter: contrast(1.75);"  alt="logo"></a>
 
                         </div>
                     </div>
                     <div class="col-lg-6 d-none d-lg-block">
                         <nav id="mobile-menu">
                             <ul class="main-menu main-menu2">
-                                <li><a href="#">Beranda</a></li>
-                                <li><a href="about.html">Produk</a></li>
+                                <li><a href="?page=home">Beranda</a></li>
+                                <li><a href="?page=product">Produk</a></li>
                             
                                 <li><a href="#">Menu <span><i class="fas fa-angle-down"></i></span></a>
                                     <ul class="submenu"> 
-                                        <li><a href="food-page2.html">Berita</a></li>
-                                        <li><a href="checkout.html">Galeri</a></li>
-                                        <li><a href="single-dish.html">Karir</a></li>
-                                        <li><a href="food-page.html">Testimoni</a></li>
-                                        <li><a href="food-page.html">Tentang Kami</a></li>
+                                        <li><a href="?page=news">Berita</a></li>
+                                        <li><a href="?page=gallery">Galeri</a></li>
+                                        <li><a href="?page=testimony">Testimoni</a></li>
+                                        <li><a href="?page=about">Tentang Kami</a></li>
                                         
                                     </ul> 
                                 </li>
-                                <li><a href="contact.html">contact</a></li>
+                                <li><a href="?page=contact">contact</a></li>
                             </ul>
                         </nav>
                     </div>

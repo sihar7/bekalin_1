@@ -15,143 +15,65 @@
                 <div class="col-lg-3 col-md-4">
                     <!-- sidebar-widget-1 -->
                     <div class="sidebar-widget-1 wow fadeInUp">
-                        <h5>Hot Sale Products</h5>
+                        <h5>Produk populer</h5>
                         <div class="sidebar-widget d-flex">
                             <div class="dish-img">
-                                <a href="single-food.html"><img src="assets/images/menu-item/pd6.png" alt=""></a>
+                                <a href="?page=cartProduct"><img src="assets/images/menu-item/pd6.png" alt=""></a>
                             </div>
                             <div class="dish-content">
-                                <h6> <a href="single-food.html">Chicken Fry
-                                        Recipe
+                                <h6> <a href="?page=cartProduct">Paket Burger
                                     </a></h6>
-                                <span class="price">$10.00</span>
+                                <span class="price">40.000</span>
                                 <span>
-                                    <a class="cart-select" href="shopping-cart.html"><i
+                                    <a class="cart-select" href="?page=shoppingCart"><i
                                             class="fas fa-shopping-basket"></i></a>
                                 </span>
                             </div>
                         </div>
                         <div class="sidebar-widget d-flex">
                             <div class="dish-img">
-                                <a href="single-food.html"><img src="assets/images/menu-item/pd4.png" alt=""></a>
+                                <a href="?page=cartProduct"><img src="assets/images/menu-item/pd4.png" alt=""></a>
                             </div>
                             <div class="dish-content">
-                                <h6> <a href="single-food.html">Chicken Soup
-                                        Rejala
+                                <h6> <a href="?page=cartProduct">Baso Goreng
                                     </a></h6>
-                                <span class="price">$20.00</span>
+                                <span class="price">13.000</span>
                                 <span>
-                                    <a class="cart-select" href="shopping-cart.html"><i
+                                    <a class="cart-select" href="?page=shoppingCart"><i
                                             class="fas fa-shopping-basket"></i></a>
                                 </span>
                             </div>
                         </div>
                         <div class="sidebar-widget d-flex">
                             <div class="dish-img">
-                                <a href="single-food.html"> <img src="assets/images/menu-item/pd7.png" alt=""></a>
+                                <a href="?page=cartProduct"> <img src="assets/images/menu-item/pd7.png" alt=""></a>
                             </div>
                             <div class="dish-content">
-                                <h6> <a href="single-food.html">The Best Black
-                                        Frame
+                                <h6> <a href="?page=cartProduct">Burger Keju
                                     </a></h6>
-                                <span class="price">$80.00</span>
+                                <span class="price">20.000</span>
                                 <span>
-                                    <a class="cart-select" href="shopping-cart.html"><i
+                                    <a class="cart-select" href="?page=shoppingCart"><i
                                             class="fas fa-shopping-basket"></i></a>
                                 </span>
                             </div>
                         </div>
                         <div class="sidebar-widget d-flex">
                             <div class="dish-img">
-                                <a href="single-food.html"><img src="assets/images/menu-item/pd8.png" alt=""></a>
+                                <a href="?page=cartProduct"><img src="assets/images/menu-item/pd8.png" alt=""></a>
                             </div>
                             <div class="dish-content">
-                                <h6> <a href="single-food.html">The Best Black
-                                        Frame
+                                <h6> <a href="?page=cartProduct">Chiken Paha 
                                     </a></h6>
-                                <span class="price">$80.00</span>
+                                <span class="price">15.000</span>
                                 <span>
-                                    <a class="cart-select" href="shopping-cart.html"><i
+                                    <a class="cart-select" href="?page=shoppingCart"><i
                                             class="fas fa-shopping-basket"></i></a>
                                 </span>
                             </div>
                         </div>
                     </div>
 
-                    <!-- sidebar-widget-2 -->
-                    <div class="sidebar-widget-2 wow fadeInUp">
-                        <h5>filter by price</h5>
-                        <div class="filter-sidebar margin-top-30">
-                            <div id="slider-range"></div>
-                            <div>
-                                <div class="margin-top-30">
-                                    <span class="textbold"> Price:</span> <input type="text" id="amount" readonly
-                                        class="textbold">
-                                    <button class="btn">filter</button>
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div>
-                    <!-- sidebar-widget-3 -->
-                    <div class="sidebar-widget-3 wow fadeInUp">
-                        <h5>filter by menu</h5>
-                        <div class="sidebar-widget d-flex align-items-center">
-                            <div class="dish-img">
-                                <a href="single-food.html"> <img src="assets/images/menu-item/fm1.png" alt=""></a>
-                            </div>
-                            <div class="dish-content d-flex justify-content-between">
-                                <h6> <a href="single-food.html">burger food
-                                    </a></h6>
-                                <span class="price">20</span>
-                            </div>
-                        </div>
-                        <div class="sidebar-widget d-flex align-items-center">
-                            <div class="dish-img">
-                                <a href="single-food.html"> <img src="assets/images/menu-item/fm2.png" alt=""></a>
-                            </div>
-                            <div class="dish-content d-flex justify-content-between">
-                                <h6> <a href="single-food.html">Chicken fry
-                                    </a></h6>
-                                <span class="price">50</span>
-                            </div>
-                        </div>
-                        <div class="sidebar-widget d-flex align-items-center">
-                            <div class="dish-img">
-                                <a href="single-food.html"> <img src="assets/images/menu-item/fm3.png" alt=""></a>
-                            </div>
-                            <div class="dish-content d-flex justify-content-between">
-                                <h6> <a href="single-food.html">Pizza
-                                    </a></h6>
-                                <span class="price">20</span>
-                            </div>
-                        </div>
-                        <div class="sidebar-widget d-flex align-items-center">
-                            <div class="dish-img">
-                                <a href="single-food.html"><img src="assets/images/menu-item/fm4.png" alt=""></a>
-                            </div>
-                            <div class="dish-content d-flex">
-
-                                <h6> <a href="single-food.html">Chicken fry
-                                    </a></h6>
-
-                                <span class="price">50</span>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- sidebar-widget-4 -->
-                    <div class="sidebar-widget-4 wow fadeInUp">
-                        <div class="gallery-img-4">
-                            <h5>Super Combo
-                                Burger</h5>
-                            <a href="shopping-cart.html" class="btn">order now</a>
-                            <img src="assets/images/gallery/22.png" alt="">
-                            <span class="gprice-4"><img src="assets/images/gallery/25.png" alt=""></span>
-                            <span class="gshape-1"><img src="assets/images/shapes/35.png" alt=""></span>
-                        </div>
-                    </div>
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <!-- food area -->
@@ -167,15 +89,14 @@
                                         aria-controls="food2" aria-selected="false"><span><i
                                                 class="fas fa-th-list"></i></span></a>
                                 </div>
-                                <span>There are 16 products.</span>
+                                <span>Tersedia 4 produk.</span>
                                 <div class="sorting-area">
-                                    <span class="margin-right-20">sort by : </span>
-                                    <span>sort by price: </span>
+                                    <span class="margin-right-20">Sortir dengan : </span>
+                                    <span>urutkan berdasarkan harga : </span>
                                     <span>
                                         <select name="#" id="#">
-                                            <option value="#">high to low</option>
-                                            <option value="#">low to high</option>
-                                            <option value="#">high to low</option>
+                                            <option value="#">tinggi sampai rendah</option>
+                                            <option value="#">rendah sampai tinggi</option>
                                         </select>
                                     </span>
                                 </div>
@@ -193,7 +114,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5><a href="single-food.html"> Burger keju
+                                                    <h5><a href="?page=cartProduct"> Burger keju
                                                         </a></h5>
                                                     <span class="price">Harga :25.000</span>
 
@@ -204,7 +125,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -217,7 +138,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5> <a href="single-food.html">Chiken Paha Atas
+                                                    <h5> <a href="?page=cartProduct">Chiken Paha Atas
                                                         </a></h5>
                                                     <span class="price">Harga :15.000</span>
 
@@ -228,37 +149,13 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
-                                            <div class="single-dishes">
-                                                <div class="dish-img">
-                                                    <img src="assets/images/menu-item/pd3.png" style="width: inherit;"
-                                                        alt="">
-                                                </div>
-                                                <div class="dish-content">
-                                                    <h5> <a href="single-food.html">Chicken Fry
-                                                        </a></h5>
-                                                    <p>It is a long established fact that a reader BBQ food Chicken.</p>
-                                                    <span class="price badge-color">price :$15.00</span>
-                                                    <span class="rating"> <i class="fas fa-star"></i> 5star</span>
-                                                </div>
-                                                <span class="badge badge-bg-color">new</span>
-                                                <div class="cart-opt">
-                                                    <span>
-                                                        <a href="#"><i class="fas fa-heart"></i></a>
-                                                    </span>
-                                                    <span>
-                                                        <a href="shopping-cart.html"><i
-                                                                class="fas fa-shopping-basket"></i></a>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </div>
+                                      
                                         <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
                                             <div class="single-dishes">
                                                 <div class="dish-img">
@@ -266,10 +163,10 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5><a href="single-food.html">Chickpea Soup
+                                                    <h5><a href="?page=cartProduct">Baso Goreng
                                                         </a></h5>
-                                                    <p>It is a long established fact that a reader BBQ food Chicken.</p>
-                                                    <span class="price">price :$15.00</span>
+                                                    
+                                                    <span class="price">Harga : 13.000</span>
                                                 </div>
                                                 <span class="badge">sale</span>
                                                 <div class="cart-opt">
@@ -277,36 +174,13 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".4s">
-                                            <div class="single-dishes">
-                                                <div class="dish-img">
-                                                    <img src="assets/images/menu-item/pd5.png" style="width: inherit;"
-                                                        alt="">
-                                                </div>
-                                                <div class="dish-content">
-                                                    <h5><a href="single-food.html"> Garlic Burger
-                                                        </a></h5>
-                                                    <p>It is a long established fact that a reader BBQ food Chicken.</p>
-                                                    <span class="price">price :$15.00</span>
-                                                </div>
-                                                <span class="badge">hot</span>
-                                                <div class="cart-opt">
-                                                    <span>
-                                                        <a href="#"><i class="fas fa-heart"></i></a>
-                                                    </span>
-                                                    <span>
-                                                        <a href="shopping-cart.html"><i
-                                                                class="fas fa-shopping-basket"></i></a>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </div>
+                                     
                                         <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
                                             <div class="single-dishes">
                                                 <div class="dish-img">
@@ -314,10 +188,9 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5> <a href="single-food.html">Vegetable Pizza
+                                                    <h5> <a href="?page=cartProduct">Paket Burger 
                                                         </a></h5>
-                                                    <p>It is a long established fact that a reader BBQ food Chicken.</p>
-                                                    <span class="price">price :$15.00</span>
+                                                    <span class="price">Harga : 40.000</span>
 
                                                 </div>
                                                 <span class="badge"></span>
@@ -326,156 +199,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
-                                                                class="fas fa-shopping-basket"></i></a>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
-                                            <div class="single-dishes">
-                                                <div class="dish-img">
-                                                    <img src="assets/images/menu-item/pd7.png" style="width: inherit;"
-                                                        alt="">
-                                                </div>
-                                                <div class="dish-content">
-                                                    <h5><a href="single-food.html">Chicken Fry
-                                                        </a></h5>
-                                                    <p>It is a long established fact that a reader BBQ food Chicken.</p>
-                                                    <span class="badge-color price">price :$15.00</span>
-                                                    <span class="rating"> <i class="fas fa-star"></i> 5star</span>
-                                                </div>
-                                                <span class="badge"></span>
-                                                <div class="cart-opt">
-                                                    <span>
-                                                        <a href="#"><i class="fas fa-heart"></i></a>
-                                                    </span>
-                                                    <span>
-                                                        <a href="shopping-cart.html"><i
-                                                                class="fas fa-shopping-basket"></i></a>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".4s">
-                                            <div class="single-dishes">
-                                                <div class="dish-img">
-                                                    <img src="assets/images/menu-item/pd8.png" style="width: inherit;"
-                                                        alt="">
-                                                </div>
-                                                <div class="dish-content">
-                                                    <h5><a href="single-food.html">Chickpea Soup
-                                                        </a></h5>
-                                                    <p>It is a long established fact that a reader BBQ food Chicken.</p>
-                                                    <span class="price">price :$15.00</span>
-
-                                                </div>
-                                                <span class="badge">sale</span>
-                                                <div class="cart-opt">
-                                                    <span>
-                                                        <a href="#"><i class="fas fa-heart"></i></a>
-                                                    </span>
-                                                    <span>
-                                                        <a href="shopping-cart.html"><i
-                                                                class="fas fa-shopping-basket"></i></a>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
-                                            <div class="single-dishes">
-                                                <div class="dish-img">
-                                                    <img src="assets/images/menu-item/pd5.png" style="width: inherit;"
-                                                        alt="">
-                                                </div>
-                                                <div class="dish-content">
-                                                    <h5><a href="single-food.html"> Garlic Burger
-                                                        </a></h5>
-                                                    <p>It is a long established fact that a reader BBQ food Chicken.</p>
-                                                    <span class="price">price :$15.00</span>
-                                                </div>
-                                                <span class="badge">hot</span>
-                                                <div class="cart-opt">
-                                                    <span>
-                                                        <a href="#"><i class="fas fa-heart"></i></a>
-                                                    </span>
-                                                    <span>
-                                                        <a href="shopping-cart.html"><i
-                                                                class="fas fa-shopping-basket"></i></a>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".2s">
-                                            <div class="single-dishes">
-                                                <div class="dish-img">
-                                                    <img src="assets/images/menu-item/pd6.png" style="width: inherit;"
-                                                        alt="">
-                                                </div>
-                                                <div class="dish-content">
-                                                    <h5> <a href="single-food.html">Vegetable Pizza
-                                                        </a></h5>
-                                                    <p>It is a long established fact that a reader BBQ food Chicken.</p>
-                                                    <span class="price">price :$15.00</span>
-
-                                                </div>
-                                                <span class="badge"></span>
-                                                <div class="cart-opt">
-                                                    <span>
-                                                        <a href="#"><i class="fas fa-heart"></i></a>
-                                                    </span>
-                                                    <span>
-                                                        <a href="shopping-cart.html"><i
-                                                                class="fas fa-shopping-basket"></i></a>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".4s">
-                                            <div class="single-dishes">
-                                                <div class="dish-img">
-                                                    <img src="assets/images/menu-item/pd7.png" style="width: inherit;"
-                                                        alt="">
-                                                </div>
-                                                <div class="dish-content">
-                                                    <h5><a href="single-food.html">Chicken Fry
-                                                        </a></h5>
-                                                    <p>It is a long established fact that a reader BBQ food Chicken.</p>
-                                                    <span class="badge-color price">price :$15.00</span>
-                                                    <span class="rating"> <i class="fas fa-star"></i> 5star</span>
-                                                </div>
-                                                <span class="badge"></span>
-                                                <div class="cart-opt">
-                                                    <span>
-                                                        <a href="#"><i class="fas fa-heart"></i></a>
-                                                    </span>
-                                                    <span>
-                                                        <a href="shopping-cart.html"><i
-                                                                class="fas fa-shopping-basket"></i></a>
-                                                    </span>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-xl-4 col-lg-4 col-md-6 wow fadeInUp" data-wow-delay=".6s">
-                                            <div class="single-dishes">
-                                                <div class="dish-img">
-                                                    <img src="assets/images/menu-item/pd8.png" style="width: inherit;"
-                                                        alt="">
-                                                </div>
-                                                <div class="dish-content">
-                                                    <h5><a href="single-food.html">Chickpea Soup
-                                                        </a></h5>
-                                                    <p>It is a long established fact that a reader BBQ food Chicken.</p>
-                                                    <span class="price">price :$15.00</span>
-
-                                                </div>
-                                                <span class="badge">sale</span>
-                                                <div class="cart-opt">
-                                                    <span>
-                                                        <a href="#"><i class="fas fa-heart"></i></a>
-                                                    </span>
-                                                    <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -494,7 +218,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5><a href="single-food.html"> Garlic Burger
+                                                    <h5><a href="?page=cartProduct"> Garlic Burger
                                                         </a></h5>
                                                     <p>It is a long established fact that a reader BBQ food Chicken.</p>
                                                     <span class="price">price :$15.00</span>
@@ -506,7 +230,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -519,7 +243,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5> <a href="single-food.html">Vegetable Pizza
+                                                    <h5> <a href="?page=cartProduct">Vegetable Pizza
                                                         </a></h5>
                                                     <p>It is a long established fact that a reader BBQ food Chicken.</p>
                                                     <span class="price">price :$15.00</span>
@@ -531,7 +255,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -544,7 +268,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5> <a href="single-food.html">Chicken Fry
+                                                    <h5> <a href="?page=cartProduct">Chicken Fry
                                                         </a></h5>
                                                     <p>It is a long established fact that a reader BBQ food Chicken.</p>
                                                     <span class="price badge-color">price :$15.00</span>
@@ -556,7 +280,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -569,7 +293,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5><a href="single-food.html">Chickpea Soup
+                                                    <h5><a href="?page=cartProduct">Chickpea Soup
                                                         </a></h5>
                                                     <p>It is a long established fact that a reader BBQ food Chicken.</p>
                                                     <span class="price">price :$15.00</span>
@@ -580,7 +304,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -593,7 +317,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5><a href="single-food.html"> Garlic Burger
+                                                    <h5><a href="?page=cartProduct"> Garlic Burger
                                                         </a></h5>
                                                     <p>It is a long established fact that a reader BBQ food Chicken.</p>
                                                     <span class="price">price :$15.00</span>
@@ -604,7 +328,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -617,7 +341,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5> <a href="single-food.html">Vegetable Pizza
+                                                    <h5> <a href="?page=cartProduct">Vegetable Pizza
                                                         </a></h5>
                                                     <p>It is a long established fact that a reader BBQ food Chicken.</p>
                                                     <span class="price">price :$15.00</span>
@@ -629,7 +353,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -642,7 +366,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5><a href="single-food.html">Chicken Fry
+                                                    <h5><a href="?page=cartProduct">Chicken Fry
                                                         </a></h5>
                                                     <p>It is a long established fact that a reader BBQ food Chicken.</p>
                                                     <span class="badge-color price">price :$15.00</span>
@@ -654,7 +378,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -667,7 +391,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5><a href="single-food.html">Chickpea Soup
+                                                    <h5><a href="?page=cartProduct">Chickpea Soup
                                                         </a></h5>
                                                     <p>It is a long established fact that a reader BBQ food Chicken.</p>
                                                     <span class="price">price :$15.00</span>
@@ -679,7 +403,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -692,7 +416,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5><a href="single-food.html"> Garlic Burger
+                                                    <h5><a href="?page=cartProduct"> Garlic Burger
                                                         </a></h5>
                                                     <p>It is a long established fact that a reader BBQ food Chicken.</p>
                                                     <span class="price">price :$15.00</span>
@@ -703,7 +427,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -716,7 +440,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5> <a href="single-food.html">Vegetable Pizza
+                                                    <h5> <a href="?page=cartProduct">Vegetable Pizza
                                                         </a></h5>
                                                     <p>It is a long established fact that a reader BBQ food Chicken.</p>
                                                     <span class="price">price :$15.00</span>
@@ -728,7 +452,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -741,7 +465,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5><a href="single-food.html">Chicken Fry
+                                                    <h5><a href="?page=cartProduct">Chicken Fry
                                                         </a></h5>
                                                     <p>It is a long established fact that a reader BBQ food Chicken.</p>
                                                     <span class="badge-color price">price :$15.00</span>
@@ -753,7 +477,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
@@ -766,7 +490,7 @@
                                                         alt="">
                                                 </div>
                                                 <div class="dish-content">
-                                                    <h5><a href="single-food.html">Chickpea Soup
+                                                    <h5><a href="?page=cartProduct">Chickpea Soup
                                                         </a></h5>
                                                     <p>It is a long established fact that a reader BBQ food Chicken.</p>
                                                     <span class="price">price :$15.00</span>
@@ -778,7 +502,7 @@
                                                         <a href="#"><i class="fas fa-heart"></i></a>
                                                     </span>
                                                     <span>
-                                                        <a href="shopping-cart.html"><i
+                                                        <a href="?page=shoppingCart"><i
                                                                 class="fas fa-shopping-basket"></i></a>
                                                     </span>
                                                 </div>
