@@ -1,3 +1,4 @@
+    
     <!-- burger-promo-area -->
     <section class="delivery-area burger-promo-area padding-top-240 padding-bottom-135">
         <div class="del-shapes">
@@ -37,7 +38,6 @@
         </div>
     </section>
 
-
     <!-- menu-area -->
     <section class="menu-area home2-menu-area padding-bottom-10">
         <div class="menu-shapes">
@@ -50,7 +50,7 @@
         <div class="container">
             <div class="common-title-area padding-50 wow fadeInLeft">
                 <h3>Item Makanan</h3>
-                <h2 style="font-color: red;">populer <span><a href="?page=product" >menu</a></span> </h2>
+                <h2>populer <span>menu</span> </h2>
             </div>
             <!-- menu-nav-wrapper -->
             <div class="menu-nav-wrapper">

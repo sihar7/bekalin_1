@@ -24,7 +24,7 @@
                                         
                                     </ul> 
                                 </li>
-                                <li><a href="?page=contact">contact</a></li>
+                                <li><a href="?page=contact">Kontak</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -35,7 +35,7 @@
                                 alt=""></span>
                             </span>
                             <div class="order-content">
-                                <span class="span-1">delivery order</span> <span class="span-2">+62 878-2206-0939</span>
+                                <span class="span-1">Pesanan Pengiriman</span> <span class="span-2">+62 878-2206-0939</span>
                             </div>
 
                         </div>
