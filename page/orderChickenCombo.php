@@ -38,7 +38,7 @@
                 <div class="row">
                     <div class="col-lg-6  wow fadeInUp">
                         <div class="checkout-left">
-                            <h4>Detail Penagihan</h4>
+                            <h4>Biodata Diri</h4>
                             <input type="text" placeholder="nama lengkap" required>
                             <input type="text" placeholder="alamat">
                             <input type="tel" placeholder="no telp" required>
