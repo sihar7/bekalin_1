@@ -21,6 +21,8 @@
                                         <li><a href="checkout.html">Galeri</a></li>
                                         <li><a href="single-dish.html">Karir</a></li>
                                         <li><a href="food-page.html">Testimoni</a></li>
+                                        <li><a href="food-page.html">Tentang Kami</a></li>
+                                        
                                     </ul> 
                                 </li>
                                 <li><a href="contact.html">contact</a></li>

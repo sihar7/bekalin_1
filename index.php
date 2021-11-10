@@ -12,6 +12,14 @@
                 case 'home':
                     include 'page/home.php';
                 break;
+                case 'orderChickenCombo':
+                    include 'page/orderChickenCombo.php';
+                break;
+                case 'product':
+                    include 'page/product.php';
+                break;
+                
+                
             }
         } else {
             include 'page/home.php';

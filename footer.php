@@ -15,20 +15,9 @@
                     <div class="col-lg-6 justify-content-self-center">
                         <div class="copyright-content">
                             <div class="f-logo">
-                                <a href="index.html"> <img src="assets/images/logo/logo2.png" alt=""></a>
+                                <a href="?page=home"> <img src="assets/logo/sabana_logo.png" alt=""></a>
                             </div>
-                            <div class="footer-nav text-center">
-                                <nav>
-                                    <ul class="main-menu main-menu2">
-                                        <li><a href="index.html">home</a></li>
-                                        <li><a href="menu.html">menu</a></li>
-                                        <li><a href="about.html">about us</a></li>
-                                        <li><a href="index.html">page</a></li>
-                                        <li><a href="contact.html">contact us</a></li>
-                                    </ul>
-                                </nav>
-                            </div>
-                            <p>Copyright © 2021 <a href="index.html">khadyo</a></p>
+                            <p>Copyright © 2021 <a href="?page=home">Sabanaku</a></p>
                         </div>
                     </div>
                 </div>
