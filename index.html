@@ -11,7 +11,10 @@
     <title>HOME | SABANA</title>
 
     <!-- Favicon Icon -->
-    <link rel="shortcut icon" href="favicon.png">
+    <link rel="icon" href="https://sabana.co.id/wp-content/uploads/2021/01/cropped-logo-sabana-512-32x32.png" sizes="32x32" />
+    <link rel="icon" href="https://sabana.co.id/wp-content/uploads/2021/01/cropped-logo-sabana-512-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="https://sabana.co.id/wp-content/uploads/2021/01/cropped-logo-sabana-512-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://sabana.co.id/wp-content/uploads/2021/01/cropped-logo-sabana-512-270x270.png" />
 
     <!-- CSS Files -->
     <link rel="stylesheet" href="assets/css/animate.css">
@@ -44,7 +47,8 @@
                 <div class="row d-flex align-items-center">
                     <div class="col-lg-2 col-md-2 col-sm-2 col-6 margin-bottom-20">
                         <div class="logo">
-                            <a href="index.html"> <img src="assets/logo/sabana_logo.png" alt="logo"></a>
+                            <a href="index.html"> <img src="assets/logo/sabana_logo.png" style="filter: contrast(1.75);"  alt="logo"></a>
+
                         </div>
                     </div>
                     <div class="col-lg-5 d-none d-lg-block">
@@ -86,15 +90,12 @@
                     <div class="col-lg-5 col-md-9 col-12">
                         <div class="customer-area2 d-flex align-items-center justify-content-between">
                             <span class="position-relative">
-                                <a class="shopping" href="shopping-cart.html"><i class="fas fa-shopping-basket"></i></a>
-                                <span class="shop-counter">1</span>
-                            </span>
                             <span class="order-img d-none d-md-block"><img src="assets/images/icons/1.png"
-                                    alt=""></span>
+                                alt=""></span>
+                            </span>
                             <div class="order-content">
                                 <span class="span-1">delivery order</span> <span class="span-2">123-59794069</span>
                             </div>
-                            <a href="#" class="btn">login</a>
 
                         </div>
                     </div>
@@ -2025,6 +2026,45 @@
     <script src="assets/js/vendor/easing.min.js"></script>
     <script src="assets/js/vendor/wow.min.js"></script>
     <script src="assets/js/main.js"></script>
+
+    <script type="text/javascript">
+        (function () {
+            var options = {
+                whatsapp: "+00000000", // WhatsApp number
+                instagram: "mepy.id", // Line QR code URL
+                facebook: "mepy.id", // Facebook URL
+                email: "info@mepy.id", // Email
+                call: "+000000000", // Call phone number
+                company_logo_url: "{{asset('assets/images/customer.jpg')}}", // URL of company logo (png, jpg, gif)
+                greeting_message: "Hai, apa yang bisa Saya bantu untuk Kamu? Kirimkan pertanyaan Anda dan Kami akan segera membalasnya.", // Text of greeting message
+                call_to_action: "Hubungi Media Sosial", // Call to action
+                button_color: "#00E676", // Color of button
+                position: "left", // Position may be 'right' or 'left'
+                order: "whatsapp,facebook,sms,call", // Order of buttons
+                ga: true, // Google Analytics enabled
+                branding: false, // Show branding string
+                mobile: true, // Mobile version enabled
+                desktop: true, // Desktop version enabled
+                greeting: true, // Greeting message enabled
+                shift_vertical: 0, // Vertical position, px
+                shift_horizontal: 0, // Horizontal position, px
+                domain: "superpolis.solusiprimaselindo.com", // site domain
+                key: "1QRo1ZQ7TrWm8hWd-AenTw", // pro-widget key
+            };
+            var proto = document.location.protocol,
+                host = "whatshelp.io",
+                url = proto + "//static." + host;
+            var s = document.createElement('script');
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = url + '/widget-send-button/js/init.js';
+            s.onload = function () {
+                WhWidgetSendButton.init(host, proto, options);
+            };
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        })();
+    </script>
 
 </body>
 </html>
