@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!-- Page Title -->
-    <title>HOME | SABANA</title>
+    <title>SABANA</title>
 
     <!-- Favicon Icon -->
     <link rel="icon" href="assets/logo/cropped-logo-sabana-512-32x32.png" sizes="32x32" />
